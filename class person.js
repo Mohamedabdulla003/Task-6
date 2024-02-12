@@ -1,6 +1,6 @@
 class Person() {
     constructor (
-        persoName = "Dhoni";
+        personName = "Dhoni";
         age = "25";
         email = "example@gmail.com"
         Phoneno = "8846221974";
